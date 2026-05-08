@@ -65,7 +65,6 @@
     <td><strong>Tools & Platforms</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=vscode" width="40" title="VS Code"/>
-      <img src="https://skillicons.dev/icons?i=framer" width="40" title="Framer"/>
       <img src="https://skillicons.dev/icons?i=wordpress" width="40" title="WordPress"/>
       <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" height="32" title="Wix"/>
     </td>
