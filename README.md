@@ -1,4 +1,6 @@
-<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/d78c43d0-aa31-45b0-ae9f-bd80bdcbb4a0" />
+<p align="center">
+  <img src="./assets/musaddiq_github_banner_github_ready.gif" alt="Musaddiq Ali animated GitHub banner" width="100%" />
+</p>
 
 ## Hi there, I am Musaddiq.
 
@@ -78,6 +80,7 @@
     </td>
   </tr>
 </table>
+
 <!--
 **musaddiq2021/musaddiq2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
