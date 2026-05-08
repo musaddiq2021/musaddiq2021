@@ -1,4 +1,4 @@
-<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/68ac3a0c-8d16-46d5-83f5-cd33f41bde60" />
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/d78c43d0-aa31-45b0-ae9f-bd80bdcbb4a0" />
 
 ## Hi there, I am Musaddiq.
 
