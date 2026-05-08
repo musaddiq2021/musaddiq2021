@@ -4,133 +4,81 @@
 
 <h2>🧠 Languages & Tools</h2>
 
-<h3>Core Programming</h3>
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td><strong>Core Programming</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" title="C++"/>
+      <img src="https://skillicons.dev/icons?i=java" width="40" title="Java"/>
+      <img src="https://skillicons.dev/icons?i=python" width="40" title="Python"/>
+      <img src="https://skillicons.dev/icons?i=js" width="40" title="JavaScript"/>
+      <img src="https://skillicons.dev/icons?i=ts" width="40" title="TypeScript"/>
+    </td>
+  </tr>
 
-<h3>Frontend Development</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" width="40" height="40"/>
-  </a>
-</p>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" width="40" title="HTML5"/>
+      <img src="https://skillicons.dev/icons?i=react" width="40" title="React"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" title="Next.js"/>
+      <img src="https://skillicons.dev/icons?i=angular" width="40" title="Angular"/>
+      <img src="https://skillicons.dev/icons?i=vue" width="40" title="Vue.js"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" title="Tailwind CSS"/>
+      <img src="https://skillicons.dev/icons?i=vite" width="40" title="Vite"/>
+    </td>
+  </tr>
 
-<h3>Backend & Databases</h3>
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="40" height="40"/>
-  </a>
-</p>
+  <tr>
+    <td><strong>Backend & Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" title="Node.js"/>
+      <img src="https://skillicons.dev/icons?i=fastapi" width="40" title="FastAPI"/>
+      <img src="https://skillicons.dev/icons?i=flask" width="40" title="Flask"/>
+      <img src="https://skillicons.dev/icons?i=django" width="40" title="Django"/>
+      <img src="https://skillicons.dev/icons?i=dotnet" width="40" title=".NET"/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" title="PostgreSQL"/>
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" title="MySQL"/>
+    </td>
+  </tr>
 
-<h3>AI, Machine Learning & Data</h3>
-<p align="left">
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" title="Hugging Face" height="32"/>
-  </a>
-</p>
+  <tr>
+    <td><strong>AI & Machine Learning</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="40" title="TensorFlow"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="32" title="Hugging Face"/>
+    </td>
+  </tr>
 
-<h3>Cloud, DevOps & Deployment</h3>
-<p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" title="Microsoft Azure" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" title="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
-  </a>
-</p>
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=azure" width="40" title="Azure"/>
+      <img src="https://skillicons.dev/icons?i=aws" width="40" title="AWS"/>
+      <img src="https://skillicons.dev/icons?i=gcp" width="40" title="Google Cloud"/>
+      <img src="https://skillicons.dev/icons?i=docker" width="40" title="Docker"/>
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="40" title="Kubernetes"/>
+    </td>
+  </tr>
 
-<h3>Developer Tools</h3>
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=framer" alt="Framer" title="Framer" width="40" height="40"/>
-  </a>
-</p>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" title="VS Code"/>
+      <img src="https://skillicons.dev/icons?i=framer" width="40" title="Framer"/>
+      <img src="https://skillicons.dev/icons?i=wordpress" width="40" title="WordPress"/>
+      <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" height="32" title="Wix"/>
+    </td>
+  </tr>
 
-<h3>Web Platforms & CMS</h3>
-<p align="left">
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" title="WordPress" width="40" height="40"/>
-  </a>
-  <a href="https://www.wix.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" title="Wix" height="32"/>
-  </a>
-</p>
-
-<h3>Hardware & Embedded Systems</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" title="Raspberry Pi" width="40" height="40"/>
-  </a>
-</p>
+  <tr>
+    <td><strong>Hardware & Embedded</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=arduino" width="40" title="Arduino"/>
+      <img src="https://skillicons.dev/icons?i=raspberrypi" width="40" title="Raspberry Pi"/>
+    </td>
+  </tr>
+</table>
 <!--
 **musaddiq2021/musaddiq2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
