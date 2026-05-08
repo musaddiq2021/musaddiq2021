@@ -1,6 +1,6 @@
-<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/fccd1cdb-9f30-4a1c-93b4-ee1751295934" />
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/42e78750-0d47-493f-8ee5-31db35c7be5b" />
 
-## Hi there 👋, I am Musaddiq.
+## Hi there, I am Musaddiq.
 <!--
 **musaddiq2021/musaddiq2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
